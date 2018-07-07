@@ -1,0 +1,588 @@
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [27/Jun/2018 11:55:20] "POST /api/v1_0/sentence/add HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\__init__.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 15:05:44.818315+08:00 (in 1799.998000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 15:21:36.487315+08:00 (in 299.999000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 15:24:01.732315+08:00 (in 299.999000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 15:28:20.095315+08:00 (in 299.998000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 15:37:54.772315+08:00 (in 299.999000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 15:39:07.325315+08:00 (in 299.999000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 16:26:07.446315+08:00 (in 299.998000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 16:29:21.450315+08:00 (in 299.999000 seconds)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 16:57:12] "POST //api/v1_0/messenger/add HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 16:58:13] "POST /api/v1_0/messenger/add HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 16:59:05] "POST /api/v1_0/messenger/add HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 17:00:09] "POST /api/v1_0/messenger/add HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\receive.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 17:03:40] "POST /api/v1_0/messenger/add HTTP/1.1" 500 -
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 17:11:51] "POST /api/v1_0/messenger/add HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 17:12:30] "POST /api/v1_0/messenger/add HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 17:15:38] "POST /api/v1_0/messenger/add HTTP/1.1" 200 -
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 17:22:42.194315+08:00 (in 179.996000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 17:22:42.194315+08:00 (in 0.004000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:03:00], next run at: 2018-06-28 17:25:42 CST)" (scheduled at 2018-06-28 17:22:42.194315+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 17:25:42.194315+08:00 (in 179.987000 seconds)
+ERROR base.py:131 Job "trainModel (trigger: interval[0:03:00], next run at: 2018-06-28 17:25:42 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\anaconda\envs\peng\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "E:\textClassifyAI\ai\controller\train.py", line 13, in trainModel
+    createModel(data, target)
+  File "E:\textClassifyAI\ai\utils\trainUtils.py", line 103, in createModel
+    SGD_clf.fit(data, target)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\pipeline.py", line 257, in fit
+    Xt, fit_params = self._fit(X, y, **fit_params)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\pipeline.py", line 222, in _fit
+    **fit_params_steps[name])
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\externals\joblib\memory.py", line 362, in __call__
+    return self.func(*args, **kwargs)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\pipeline.py", line 589, in _fit_transform_one
+    res = transformer.fit_transform(X, y, **fit_params)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\feature_extraction\text.py", line 869, in fit_transform
+    self.fixed_vocabulary_)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\feature_extraction\text.py", line 811, in _count_vocab
+    raise ValueError("empty vocabulary; perhaps the documents only"
+ValueError: empty vocabulary; perhaps the documents only contain stop words
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 17:27:48.401315+08:00 (in 179.995000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 17:26:02] "POST /api/v1_0/messenger/add HTTP/1.1" 200 -
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 17:26:31] "POST /api/v1_0/messenger/add HTTP/1.1" 200 -
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 17:27:40] "POST /api/v1_0/messenger/add HTTP/1.1" 200 -
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 19:33:10.484753+08:00 (in 51.415142 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:01:00], next run at: 2018-06-28 19:34:10 CST)" (scheduled at 2018-06-28 19:33:10.484753+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 19:34:10.484753+08:00 (in 59.993000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:01:00], next run at: 2018-06-28 19:34:10 CST)" executed successfully
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:01:00], next run at: 2018-06-28 19:35:10 CST)" (scheduled at 2018-06-28 19:34:10.484753+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 19:35:10.484753+08:00 (in 59.979000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:01:00], next run at: 2018-06-28 19:35:10 CST)" executed successfully
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:01:00], next run at: 2018-06-28 19:36:10 CST)" (scheduled at 2018-06-28 19:35:10.484753+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-28 19:36:10.484753+08:00 (in 59.992001 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:01:00], next run at: 2018-06-28 19:36:10 CST)" executed successfully
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:35:22] "POST /api/v1_0/messenger/recognize HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:36:26] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:36:52] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:38:36] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:38:40] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:38:41] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\train.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:40:16] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:42:40] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:44:12] "POST /api/v1_0/messenger/recognize HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:45:44] "POST /api/v1_0/messenger/recognize HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [28/Jun/2018 19:47:17] "POST /api/v1_0/messenger/recognize HTTP/1.1" 500 -
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:19:24] "POST /api/v1_0/messenger/add HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\receive.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:21:16.554692+08:00 (in 54.571000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:01:00], next run at: 2018-06-29 09:22:16 CST)" (scheduled at 2018-06-29 09:21:16.554692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:22:16.554692+08:00 (in 59.986000 seconds)
+ERROR base.py:131 Job "trainModel (trigger: interval[0:01:00], next run at: 2018-06-29 09:22:16 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\anaconda\envs\peng\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "E:\textClassifyAI\ai\controller\train.py", line 13, in trainModel
+    createModel(data, target)
+  File "E:\textClassifyAI\ai\utils\trainUtils.py", line 102, in createModel
+    TF__use_idf = True
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\pipeline.py", line 144, in set_params
+    self._set_params('steps', **kwargs)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\utils\metaestimators.py", line 49, in _set_params
+    super(_BaseComposition, self).set_params(**params)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\base.py", line 274, in set_params
+    (name, self))
+ValueError: Invalid parameter SGD for estimator Pipeline(memory=None,
+     steps=[('CV', CountVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=0.75, max_features=None, min_df=1,
+        ngram_range=(1, 2), preprocessor=None, stop_words=None,
+        strip_...,
+  max_iter=-1, probability=False, random_state=None, shrinking=True,
+  tol=0.001, verbose=False))]). Check the list of available parameters with `estimator.get_params().keys()`.
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:28:53.461692+08:00 (in 5.823000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:29:03 CST)" (scheduled at 2018-06-29 09:28:53.461692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:29:03.461692+08:00 (in 9.996000 seconds)
+ERROR base.py:131 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:29:03 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\anaconda\envs\peng\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "E:\textClassifyAI\ai\controller\train.py", line 13, in trainModel
+    createModel(data, target)
+  File "E:\textClassifyAI\ai\utils\trainUtils.py", line 102, in createModel
+    TF__use_idf = True
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\pipeline.py", line 144, in set_params
+    self._set_params('steps', **kwargs)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\utils\metaestimators.py", line 49, in _set_params
+    super(_BaseComposition, self).set_params(**params)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\base.py", line 276, in set_params
+    sub_object.set_params(**{sub_name: value})
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\base.py", line 283, in set_params
+    (key, self.__class__.__name__))
+ValueError: Invalid parameter alpha for estimator SVC. Check the list of available parameters with `estimator.get_params().keys()`.
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:29:13 CST)" (scheduled at 2018-06-29 09:29:03.461692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:29:13.461692+08:00 (in 9.993000 seconds)
+ERROR base.py:131 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:29:13 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\anaconda\envs\peng\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "E:\textClassifyAI\ai\controller\train.py", line 13, in trainModel
+    createModel(data, target)
+  File "E:\textClassifyAI\ai\utils\trainUtils.py", line 102, in createModel
+    TF__use_idf = True
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\pipeline.py", line 144, in set_params
+    self._set_params('steps', **kwargs)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\utils\metaestimators.py", line 49, in _set_params
+    super(_BaseComposition, self).set_params(**params)
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\base.py", line 276, in set_params
+    sub_object.set_params(**{sub_name: value})
+  File "D:\anaconda\envs\peng\lib\site-packages\sklearn\base.py", line 283, in set_params
+    (key, self.__class__.__name__))
+ValueError: Invalid parameter alpha for estimator SVC. Check the list of available parameters with `estimator.get_params().keys()`.
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:31:28.542692+08:00 (in 7.617000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:31:38 CST)" (scheduled at 2018-06-29 09:31:28.542692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:31:38.542692+08:00 (in 9.984000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:31:38 CST)" executed successfully
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:31:48 CST)" (scheduled at 2018-06-29 09:31:38.542692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:31:48.542692+08:00 (in 9.984000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:31:48 CST)" executed successfully
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:32:32] "POST /api/v1_0/messenger/recognize HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:38:33] "POST /api/v1_0/messenger/recognize HTTP/1.1" 500 -
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:42:31.687692+08:00 (in 6.956000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:42:41 CST)" (scheduled at 2018-06-29 09:42:31.687692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 09:42:41.687692+08:00 (in 9.998000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 09:42:41 CST)" executed successfully
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:43:06] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:43:56] "POST /api/v1_0/messenger/recognize HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:44:12] "POST /api/v1_0/messenger/recognize HTTP/1.1" 500 -
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:44:19] "POST /api/v1_0/messenger/recognize HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:50:29] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:50:54] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:51:09] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\recognize.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:57:16] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:58:03] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:58:27] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 09:58:56] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\utils\\trainUtils.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\utils\\trainUtils.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\receive.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:12:12.598692+08:00 (in 8.906000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:12:22 CST)" (scheduled at 2018-06-29 10:12:12.598692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:12:22.598692+08:00 (in 9.996000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:12:22 CST)" executed successfully
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 10:12:58] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 10:13:40] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 10:13:54] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\utils\\trainUtils.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\receive.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:23:16.981692+08:00 (in 2.008000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:23:26 CST)" (scheduled at 2018-06-29 10:23:16.981692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:23:26.981692+08:00 (in 9.998000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:23:26 CST)" executed successfully
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:23:36 CST)" (scheduled at 2018-06-29 10:23:26.981692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:23:36.981692+08:00 (in 9.995000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:23:36 CST)" executed successfully
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:23:46 CST)" (scheduled at 2018-06-29 10:23:36.981692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:23:46.981692+08:00 (in 9.988000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:23:46 CST)" executed successfully
+DEBUG base.py:926 Looking for jobs to run
+WARNING base.py:120 Run time of job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:23:56 CST)" was missed by 0:00:03.051000
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:23:56.981692+08:00 (in 6.950000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:24:06 CST)" (scheduled at 2018-06-29 10:23:56.981692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:24:06.981692+08:00 (in 9.985000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:24:06 CST)" executed successfully
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:24:16 CST)" (scheduled at 2018-06-29 10:24:06.981692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:24:16.981692+08:00 (in 9.977000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 10:24:55] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 10:25:00] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 10:25:01] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in 'E:\\textClassifyAI\\ai\\controller\\receive.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:25:34.935692+08:00 (in 7.185000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:25:44 CST)" (scheduled at 2018-06-29 10:25:34.935692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:25:44.935692+08:00 (in 9.996000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+WARNING base.py:964 Execution of job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:25:44 CST)" skipped: maximum number of running instances reached (1)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:25:54.935692+08:00 (in 9.976000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:25:54 CST)" executed successfully
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:26:04 CST)" (scheduled at 2018-06-29 10:25:54.935692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:26:04.935692+08:00 (in 9.995000 seconds)
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 10:26:22] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO base.py:867 Added job "trainModel" to job store "default"
+INFO base.py:159 Scheduler started
+DEBUG base.py:926 Looking for jobs to run
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:31:08.253692+08:00 (in 6.322000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+INFO base.py:123 Running job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:31:18 CST)" (scheduled at 2018-06-29 10:31:08.253692+08:00)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:31:18.253692+08:00 (in 9.989000 seconds)
+DEBUG base.py:926 Looking for jobs to run
+WARNING base.py:964 Execution of job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:31:18 CST)" skipped: maximum number of running instances reached (1)
+DEBUG base.py:1006 Next wakeup is due at 2018-06-29 10:31:28.253692+08:00 (in 9.979000 seconds)
+INFO base.py:144 Job "trainModel (trigger: interval[0:00:10], next run at: 2018-06-29 10:31:28 CST)" executed successfully
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO _internal.py:87  * Restarting with stat
+INFO base.py:433 Adding job tentatively -- it will be properly scheduled when the scheduler starts
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 10:32:07] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 10:34:04] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [29/Jun/2018 12:21:54] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 157-848-930
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87 127.0.0.1 - - [04/Jul/2018 16:06:48] "POST /api/v1_0/messenger/add HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [04/Jul/2018 16:07:13] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
