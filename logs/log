@@ -586,3 +586,260 @@ INFO _internal.py:87  * Debugger PIN: 157-848-930
 INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO _internal.py:87 127.0.0.1 - - [04/Jul/2018 16:06:48] "POST /api/v1_0/messenger/add HTTP/1.1" 200 -
 INFO _internal.py:87 127.0.0.1 - - [04/Jul/2018 16:07:13] "POST /api/v1_0/messenger/recognize HTTP/1.1" 200 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:47:33] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:48:08] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:49:58] "[33mGET /api/v1_0/autoReview/test? HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:51:19] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:51:20] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:51:20] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:51:21] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:51:22] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\test.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:54:19] "[33mPOST /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\test.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:55:01] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:55:03] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:55:04] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\test.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:56:09] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:56:11] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:56:11] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:57:52] "[33mGET /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:58:52] "[33mPOST /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:58:54] "[33mPOST /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:59:37] "[33mPOST /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:59:39] "[33mPOST /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 18:59:40] "[33mPOST /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:01:03] "[33mPOST /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:01:04] "[33mPOST /api/v1_0/autoReview/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:01:28] "[33mPOST /api/v1_0/autoReview/review HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:02:23] "[33mGET /api/v1_0/review/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:02:42] "[33mGET /api/v1_0/review/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:05:29] "[33mGET /api/v1_0/review/test HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:06:04] "[33mGET /api/v1_0/tests HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:06:35] "[33mPOST /api/v1_0/tests HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:06:36] "[33mPOST /api/v1_0/tests HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\__init__.py', reloading
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\__init__.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:09:31] "[33mPOST /api/v1_0/tests HTTP/1.1[0m" 404 -
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:09:46] "[33mPOST /api/v1_0/tests HTTP/1.1[0m" 404 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:11:03] "[1m[35mPOST /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:14:12] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\handleData.py', reloading
+INFO _internal.py:88  * Restarting with stat
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:16:44] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\trainModel.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:20:53] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\handleData.py', reloading
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\handleData.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:23:18] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\handleData.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:26:46] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:28:13] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\trainModel.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:29:34] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:30:49] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:33:18] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:36:11] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\trainModel.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:46:58] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\trainModel.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:48:16] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\trainModel.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:51:06] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 19:59:53] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\controller\\testReview.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 20:02:19] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\trainModel.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 20:03:07] "[1m[35mGET /api/v1_0/tests HTTP/1.1[0m" 500 -
+INFO _internal.py:88  * Detected change in 'E:\\autoReview\\ai\\service\\trainModel.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88 127.0.0.1 - - [07/Jul/2018 20:07:49] "[37mGET /api/v1_0/tests HTTP/1.1[0m" 200 -
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 157-848-930
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
